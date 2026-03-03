@@ -2,7 +2,7 @@
 
 **Course:** SE 3242 – Android Application Development  
 **Week:** 2 | **Topic:** Lambdas & Higher-Order Functions  
-**Student:** Your Name Here
+**Students:**  Fanyi Charllson & Adrien Tello
 
 ---
 
